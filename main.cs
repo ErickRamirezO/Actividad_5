@@ -8,5 +8,6 @@ class Program {
       Nombre = "Juan", Salario = 50000;
     };
     Gerente gerente = new Gerente() { Nombre = "Maria", Salario = 70000, Departamento = "Ventas" };
+    //
 
 }
